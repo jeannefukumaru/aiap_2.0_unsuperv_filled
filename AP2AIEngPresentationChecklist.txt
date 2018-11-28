@@ -1,0 +1,18 @@
+
+
+Can APs explain the concepts behind proximity matrices and measuring disimilarity between objects? 
+
+Can APs explain the rationale behind how they chose and validated their clusters? 
+- view clusters and see whether they correspond to business processes/business trends. 
+
+Did APs handle outliers appropriately, removing them from dendrogram to create a more understandable visualisation? 
+
+Did APs make the necessary tweaks to create an understandable visualisation? (No unintelligible lumps of branches allowed. Trees should be scaled properly). 
+
+Did APs normalise the data as a preprocessing step? 
+
+Did APs understand the concept behind normalisation and the different normalisation techniques available? 
+
+Did APs apply the Silhouette score to choose best number of clusters? 
+
+Did APs use covariance to select informative columns for their GMM model? 
